@@ -56,7 +56,7 @@ I am comfortable working with both **frontend and backend technologies**, and I 
 
 ## 📬 Contact
 
-📧 Email: **66025795@up.ac.th**  
+📧 Email: **pyaksda@gmail.com**  
 🔗 GitHub: [https://github.com/66JJN](https://github.com/66JJN)
 
 ---
