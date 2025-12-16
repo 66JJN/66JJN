@@ -38,6 +38,16 @@ I am comfortable working with both **frontend and backend technologies**, and I 
 
 ---
 
+## Team Project Experience
+
+🔹 **CMES Web Application**
+- Role: Frontend & Backend Developer
+- Technologies: JavaScript, React, Node.js, MongoDB
+- Repository: https://github.com/Borivat-wtm/CMES-ADMIN
+- Repository: https://github.com/Borivat-wtm/CMES-USER
+
+---
+
 ## 💡 Core Competencies
 
 - Problem-solving and logical thinking
