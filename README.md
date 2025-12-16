@@ -34,8 +34,7 @@ Currently, I am focusing on:
 - Git & GitHub
 
 **Other Tools**
-- Visual Studio Code  
-- Adobe Photoshop  
+- Visual Studio Code    
 
 ---
 
