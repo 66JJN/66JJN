@@ -63,7 +63,7 @@ Currently, I am focusing on:
 
 ## 📬 Contact
 
-📧 Email: **66025795@up.ac.th**  
+📧 Email: **pyaksda@gmail.com**  
 🔗 GitHub: [https://github.com/66JJN](https://github.com/66JJN)
 
 ---
