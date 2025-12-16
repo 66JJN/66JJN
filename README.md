@@ -1,24 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suphakon Saephan (John)
-===============================================================================================================================================
+# 👋 Hello, I'm Suphakson Saephan (John)
 
-💻 COMPUTER SCIENCE (CS66)👨‍💻
--------------------------------
+🎓 **Computer Science Student (CS66)**  
+🏫 University of Phayao  
+📍 Phayao, Thailand  
 
-* 🌍  I'm based in University of Phayao
-* ✉️  You can contact me at [66025795@up.ac.th](mailto:66025795@up.ac.th)
+---
 
-### Skills
+## 🧑‍💻 About Me
 
+I am a Computer Science student with a strong interest in **software development**, **web-based systems**, and **digital content management platforms**.  
+I enjoy designing and developing systems that solve real-world problems, especially those involving **web applications**, **real-time systems**, and **digital signage solutions**.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+Currently, I am focusing on:
+- Full-stack web development
+- System design and implementation
+- Digital Signage & Content Management Systems
+- Software projects for academic and practical use
 
+---
 
-### Socials
+## 🛠 Technical Skills
 
-<p align="left"> <a href="https://www.facebook.com/people/Supakorn-Saepan/pfbid0aAXpqc4X4SPKbcZvMJphRwwG6pLrzsyNricTCV9g41RVvG3KXo7eSmnQQtBg8CH5l/?rdid=e0f2CvRY8Lpmw3Zd&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2FUsD4NgfTx58tZUzN%2F" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/66JJN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_jxhn.xx/profilecard/?igsh=amcweTkzMThmdmM%3D" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+**Programming Languages**
+- JavaScript
+- Python
+- HTML / CSS
 
-### Badges
+**Web & Development Tools**
+- Node.js
+- Express.js
+- React
+- MongoDB
+- Git & GitHub
 
-<a href="https://github.com/66JJN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Other Tools**
+- Visual Studio Code  
+- Adobe Photoshop  
+
+---
+
+## 📌 Projects & Interests
+
+- 📺 **Digital Signage Content Management System**  
+  Web-based system for managing and sending images and messages to digital displays
+
+- 🌐 **Web Applications**
+  - Frontend & Backend development
+  - REST APIs
+  - Real-time communication systems
+
+- 📊 **Data & System-Oriented Projects**
+  - System analysis & design (UML, Use Case, Sequence Diagram)
+  - Academic software projects
+
+---
+
+## 📈 GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&layout=compact&theme=dark)
+
+---
+
+## 📬 Contact
+
+📧 Email: **66025795@up.ac.th**  
+🔗 GitHub: [https://github.com/66JJN](https://github.com/66JJN)
+
+---
+
+> *“Learning by building real systems is the best way to grow as a developer.”*
