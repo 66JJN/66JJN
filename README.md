@@ -87,15 +87,6 @@ https://github.com/Boriwat-wtm/CMES-USER
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=66JJN&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
@@ -117,11 +108,10 @@ https://github.com/Boriwat-wtm/CMES-USER
 ## 📬 Contact Me
 
 📧 Email: **pyaksda@gmail.com**  
-🐙 GitHub: https://github.com/66JJN  
 🌐 Portfolio: https://66jjn.github.io  
 
 ---
 
 <p align="center">
-✨ Actively seeking internship and junior developer opportunities ✨
+Actively seeking internship and junior developer opportunities 
 </p>
