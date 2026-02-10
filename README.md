@@ -87,21 +87,9 @@ https://github.com/Boriwat-wtm/CMES-USER
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=66JJN&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&layout=compact&theme=tokyonight&cache_seconds=86400)
-
----
-
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=66JJN&theme=tokyonight)
-
----
-
-![Snake animation](https://raw.githubusercontent.com/66JJN/66JJN/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
