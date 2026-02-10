@@ -89,10 +89,10 @@ https://github.com/Boriwat-wtm/CMES-USER
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=66JJN&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=66JJN&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=66JJN&layout=compact&theme=tokyonight)
+
 
 ---
 
