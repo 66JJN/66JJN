@@ -104,6 +104,16 @@ https://github.com/Boriwat-wtm/CMES-USER
 
 ---
 
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=66JJN&theme=tokyonight)
+
+---
+
+![Snake animation](https://raw.githubusercontent.com/66JJN/66JJN/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 💡 Core Strengths
 
 ✔ Problem Solving  
