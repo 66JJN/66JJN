@@ -153,7 +153,7 @@ expertise:
 
 <a href="https://github.com/66JJN/CMES-USER"><img src="https://img.shields.io/badge/📱_User_App-8B5CF6?style=for-the-badge" /></a>
 <a href="https://github.com/66JJN/CMES-ADMIN"><img src="https://img.shields.io/badge/⚙️_Admin_Dashboard-4F46E5?style=for-the-badge" /></a>
-<a href="https://cmesuserfrontend.vercel.app/?shopId=demo"><img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge" /></a>
+<a href="https://cmes-user-frontend.vercel.app/?shopId=JJ"><img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge" /></a>
 
 </div>
 
