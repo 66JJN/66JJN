@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suphakson%20Saephan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Real-Time%20Web%20Apps&descSize=16&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suphakon%20Saephan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Real-Time%20Web%20Apps&descSize=16&descAlignY=52" width="100%" />
 
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+John+%E2%80%94+Nice+to+meet+you!;%F0%9F%9A%80+React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;%F0%9F%8F%97%EF%B8%8F+Multi-Tenant+Architecture+%7C+Cloud+Services;%F0%9F%A4%96+AI+Integration+%7C+Real-Time+Systems" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Suphakson Saephan (John)
+name: Suphakon Saephan (John)
 education: B.Sc. Computer Science — University of Phayao (GPA 3.59)
 location: Phayao, Thailand
 role: Full-Stack Developer
@@ -308,7 +308,7 @@ expertise:
 <div align="center">
 
 <a href="mailto:pyaksda@gmail.com"><img src="https://img.shields.io/badge/Email-pyaksda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+66952186772"><img src="https://img.shields.io/badge/Phone-095--218--6772-10B981?style=for-the-badge&logo=phone&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suphakon-saephan-b27812334/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDQc%2Fm%2FoLQVypDaJq60kFtQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://66jjn.github.io"><img src="https://img.shields.io/badge/Portfolio-66jjn.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://github.com/66JJN"><img src="https://img.shields.io/badge/GitHub-66JJN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
