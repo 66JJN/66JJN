@@ -13,7 +13,6 @@
   <br/>
   <a href="mailto:pyaksda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://66jjn.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/66JJN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=66JJN&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -310,7 +309,6 @@ expertise:
 <a href="mailto:pyaksda@gmail.com"><img src="https://img.shields.io/badge/Email-pyaksda@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/suphakon-saephan-b27812334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://66jjn.github.io"><img src="https://img.shields.io/badge/Portfolio-66jjn.github.io-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://github.com/66JJN"><img src="https://img.shields.io/badge/GitHub-66JJN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
