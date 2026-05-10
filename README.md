@@ -7,7 +7,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suphakon%20Saephan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Real-Time%20Web%20Apps&descSize=16&descAlignY=52" width="100%" />
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hi%2C+I'm+John+%E2%80%94+Nice+to+meet+you!;%F0%9F%9A%80+React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;%F0%9F%8F%97%EF%B8%8F+Multi-Tenant+Architecture+%7C+Cloud+Services;%F0%9F%A4%96+AI+Integration+%7C+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+John+%E2%80%94+Nice+to+meet+you!;%F0%9F%9A%80+React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;%F0%9F%8F%97%EF%B8%8F+Multi-Tenant+Architecture+%7C+Cloud+Services;%F0%9F%A4%96+AI+Integration+%7C+Real-Time+Systems" alt="Typing SVG" />
 
   <!-- Social Badges -->
   <br/>
