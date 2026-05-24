@@ -14,7 +14,7 @@
   <a href="mailto:pyaksda@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://66jjn.github.io"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=66JJN&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <!--<img src="https://komarev.com/ghpvc/?username=66JJN&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>-->
 
 </div>
 
