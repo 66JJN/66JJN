@@ -193,6 +193,7 @@ expertise:
 <div align="center">
 
 <a href="https://github.com/66JJN/AirSafeTH"><img src="https://img.shields.io/badge/📦_Repository-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://air-safe-th.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-10B981?style=for-the-badge" /></a>
 
 </div>
 
