@@ -4,10 +4,10 @@
 <div align="center">
 
   <!-- Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suphakon%20Saephan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20Intern%20%7C%20Building%20Real-Time%20Web%20Apps&descSize=16&descAlignY=52" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suphakon%20Saephan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20Intern%20%7C%20Building%20Real-Time%20Web%20Apps&descSize=16&descAlignY=52" width="100%" />
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Jon+%E2%80%94+Nice+to+meet+you!;%F0%9F%9A%80+React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;%F0%9F%8F%97%EF%B8%8F+Multi-Tenant+Architecture+%7C+Cloud+Services;%F0%9F%A4%96+AI+Integration+%7C+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+John+%E2%80%94+Nice+to+meet+you!;%F0%9F%9A%80+React+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;%F0%9F%8F%97%EF%B8%8F+Multi-Tenant+Architecture+%7C+Cloud+Services;%F0%9F%A4%96+AI+Integration+%7C+Real-Time+Systems" alt="Typing SVG" />
 
   <!-- Social Badges -->
   <br/>
@@ -23,11 +23,11 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Suphakon Saephan (Jon)
+name: Suphakon Saephan (John)
 education: B.Sc. Computer Science — University of Phayao (GPA 3.59)
 location: Phayao, Thailand
-role: Software Engineer Intern
-looking_for: Software Engineer Internship
+role: Full-Stack Developer Intern
+looking_for: Full-Stack Developer Internship
 
 currently:
   - 🔭 Building production-grade real-time web applications
@@ -198,16 +198,17 @@ expertise:
 
 <br/>
 
-<!-- Docker Project -->
+<!-- MovieBot Project -->
 ### 🤖 MovieBot — Movie Recommendation Chatbot
 
 <table>
 <tr>
 <td>
 
-**Chatbot แนะนำหนัง** — ใช้ API integration วิเคราะห์ input ผู้ใช้ → แนะนำหนังตรงใจ พร้อมระบบ conversational flow
+**Chatbot แนะนำหนัง** — ใช้ API integration วิเคราะห์ input ผู้ใช้ → แนะนำหนังตรงใจ พร้อมระบบ conversational flow รันผ่าน Docker + Ollama (local LLM)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![API](https://img.shields.io/badge/API_Integration-FF6C37?style=flat-square)
 
 </td>
@@ -255,7 +256,7 @@ expertise:
 <tr>
 <td align="center" width="25%">
 
-🎯<br/>**Problem Solving**<br/><sub>Front-End Debugging<br/>& Optimization</sub>
+🎯<br/>**Problem Solving**<br/><sub>Debugging<br/>& Root Cause Analysis</sub>
 
 </td>
 <td align="center" width="25%">
@@ -312,7 +313,7 @@ expertise:
 
 <br/><br/>
 
-### 🚀 Actively seeking internship and junior developer opportunities
+### 🚀 Actively seeking Full-Stack Developer internship opportunities
 
 <br/>
 
