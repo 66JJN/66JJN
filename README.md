@@ -71,7 +71,7 @@ I use AI-assisted development tools to help explore ideas, understand unfamiliar
 
 <div align="center">
 
-### Technologies used in my projects
+### Frontend & Core Technologies
 
 <br/>
 
@@ -83,16 +83,27 @@ I use AI-assisted development tools to help explore ideas, understand unfamiliar
 
 <br/>
 
+### Backend & Databases
+
+<br/>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 <br/>
 
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
+### Cloud & DevOps
+
+<br/>
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure App Service](https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure Static Web Apps](https://img.shields.io/badge/Azure_Static_Web_Apps-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
