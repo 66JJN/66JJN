@@ -294,66 +294,6 @@ PostgreSQL on Supabase · Auth.js · Environment variables
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 
-## 💡 What I Bring
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🔍<br/>**Problem Solving**<br/>
-<sub>Debugging with logs,<br/>Network tools and tests</sub>
-
-</td>
-<td align="center" width="25%">
-
-🎨<br/>**UI Development**<br/>
-<sub>Responsive interfaces<br/>and reusable components</sub>
-
-</td>
-<td align="center" width="25%">
-
-⚡<br/>**Real-Time Features**<br/>
-<sub>Socket.IO events,<br/>queues and live updates</sub>
-
-</td>
-<td align="center" width="25%">
-
-📚<br/>**Self-Learning**<br/>
-<sub>Learning unfamiliar tools<br/>through real projects</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-🧪<br/>**Verification**<br/>
-<sub>Tests, linting,<br/>build and manual checks</sub>
-
-</td>
-<td align="center">
-
-📝<br/>**Documentation**<br/>
-<sub>README files,<br/>design notes and guides</sub>
-
-</td>
-<td align="center">
-
-🤖<br/>**AI-Assisted Work**<br/>
-<sub>Using AI transparently<br/>with human review</sub>
-
-</td>
-<td align="center">
-
-🌱<br/>**Growth Mindset**<br/>
-<sub>Honest about limitations<br/>and willing to improve</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider">
 
